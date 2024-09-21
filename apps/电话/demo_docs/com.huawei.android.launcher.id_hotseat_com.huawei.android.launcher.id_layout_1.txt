@@ -1,0 +1,1 @@
+{'tap': 'Tapping the UI element opens the phone dialer interface.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

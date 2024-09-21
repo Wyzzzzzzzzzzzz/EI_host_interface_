@@ -1,0 +1,1 @@
+{'tap': 'Tapping the UI element will navigate the user to the favorites screen.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

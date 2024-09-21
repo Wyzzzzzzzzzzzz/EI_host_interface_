@@ -1,0 +1,1 @@
+{'tap': 'Tapping the UI element will enable the user to download and open a file shared in the chat, as well as view details about the file, such as its name and size.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

@@ -1,0 +1,1 @@
+{'tap': 'Tapping the UI element initiates a call to the selected contact.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

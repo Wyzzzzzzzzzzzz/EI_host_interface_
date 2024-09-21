@@ -1,0 +1,4 @@
+tap(4):::com.tencent.mobileqq.id_nle_com.tencent.mobileqq.id_nl4_2
+tap(24):::com.tencent.mobileqq.id_z4j_com.tencent.mobileqq.id_xhr_语音通话_5
+tap(3):::com.tencent.mobileqq.id_ct_android.widget.RelativeLayout_1152_144_0
+stop

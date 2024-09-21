@@ -1,0 +1,1 @@
+{'tap': 'Tapping this area initiates a voice call to a contact.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

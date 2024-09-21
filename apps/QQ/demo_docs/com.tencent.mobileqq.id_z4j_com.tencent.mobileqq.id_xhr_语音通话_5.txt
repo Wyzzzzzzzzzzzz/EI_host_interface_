@@ -1,0 +1,1 @@
+{'tap': 'Tapping the UI element will provide options to initiate either an audio or video call.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

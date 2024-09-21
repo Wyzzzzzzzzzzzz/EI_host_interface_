@@ -1,0 +1,4 @@
+tap(17):::com.huawei.android.launcher.id_hotseat_com.huawei.android.launcher.id_layout_1
+tap(29):::com.huawei.contacts.id_bottom_navgation_android.widget.LinearLayout_368_48_2
+tap(3):::com.huawei.contacts.id_contact_starred_list_item_com.huawei.contacts.id_contact_starred_list_item_view_0
+stop
